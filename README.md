@@ -1,0 +1,1 @@
+This repository demonstrates a common type mismatch error in TypeScript. The `add` function is designed to take two numbers and return their sum. However, in the provided example, the function is called with a number and a string, which results in a runtime error. The solution shows how to prevent this error using type guards.
